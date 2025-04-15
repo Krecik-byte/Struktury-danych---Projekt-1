@@ -1,0 +1,70 @@
+Rozmiar	Operacja	DynamicArray	LinkedList
+10	Dodawanie na pocz¹tek	400	430
+10	Dodawanie na koniec	270	440
+10	Dodawanie na indeks 5	290	450
+10	Usuwanie z indeksu 5	280	390
+10	Usuwanie z pocz¹tku	290	400
+10	Usuwanie z koñca	250	420
+10	Wyszukiwanie elementu (istniej¹cego)	270	270
+10	Wyszukiwanie elementu (nieistniej¹cego)	280	270
+20	Dodawanie na pocz¹tek	330	400
+20	Dodawanie na koniec	280	450
+20	Dodawanie na indeks 10	300	410
+20	Usuwanie z indeksu 10	290	460
+20	Usuwanie z pocz¹tku	340	390
+20	Usuwanie z koñca	290	420
+20	Wyszukiwanie elementu (istniej¹cego)	300	260
+20	Wyszukiwanie elementu (nieistniej¹cego)	310	280
+50	Dodawanie na pocz¹tek	360	400
+50	Dodawanie na koniec	270	540
+50	Dodawanie na indeks 25	300	510
+50	Usuwanie z indeksu 25	310	440
+50	Usuwanie z pocz¹tku	410	390
+50	Usuwanie z koñca	310	520
+50	Wyszukiwanie elementu (istniej¹cego)	330	310
+50	Wyszukiwanie elementu (nieistniej¹cego)	360	410
+100	Dodawanie na pocz¹tek	500	420
+100	Dodawanie na koniec	270	690
+100	Dodawanie na indeks 50	400	530
+100	Usuwanie z indeksu 50	390	550
+100	Usuwanie z pocz¹tku	560	400
+100	Usuwanie z koñca	320	620
+100	Wyszukiwanie elementu (istniej¹cego)	370	400
+100	Wyszukiwanie elementu (nieistniej¹cego)	450	510
+200	Dodawanie na pocz¹tek	740	480
+200	Dodawanie na koniec	290	920
+200	Dodawanie na indeks 100	490	620
+200	Usuwanie z indeksu 100	530	690
+200	Usuwanie z pocz¹tku	730	460
+200	Usuwanie z koñca	270	850
+200	Wyszukiwanie elementu (istniej¹cego)	490	530
+200	Wyszukiwanie elementu (nieistniej¹cego)	640	780
+500	Dodawanie na pocz¹tek	1360	470
+500	Dodawanie na koniec	420	2230
+500	Dodawanie na indeks 250	840	1480
+500	Usuwanie z indeksu 250	930	1490
+500	Usuwanie z pocz¹tku	1390	560
+500	Usuwanie z koñca	440	1990
+500	Wyszukiwanie elementu (istniej¹cego)	750	1250
+500	Wyszukiwanie elementu (nieistniej¹cego)	1170	2100
+1000	Dodawanie na pocz¹tek	2690	610
+1000	Dodawanie na koniec	570	4790
+1000	Dodawanie na indeks 500	1600	3500
+1000	Usuwanie z indeksu 500	1620	3150
+1000	Usuwanie z pocz¹tku	2710	770
+1000	Usuwanie z koñca	370	4060
+1000	Wyszukiwanie elementu (istniej¹cego)	1320	2630
+1000	Wyszukiwanie elementu (nieistniej¹cego)	2150	4950
+2000	Dodawanie na pocz¹tek	4910	690
+2000	Dodawanie na koniec	1190	10580
+2000	Dodawanie na indeks 1000	3880	7680
+2000	Usuwanie z indeksu 1000	3570	6720
+2000	Usuwanie z pocz¹tku	5390	1370
+2000	Usuwanie z koñca	1440	9740
+2000	Wyszukiwanie elementu (istniej¹cego)	3260	6330
+2000	Wyszukiwanie elementu (nieistniej¹cego)	4370	10690
+3000	Dodawanie na pocz¹tek	8010	940
+3000	Dodawanie na koniec	1560	16680
+3000	Dodawanie na indeks 1500	4390	9760
+3000	Usuwanie z indeksu 1500	4500	8880
+3000	Usuwanie z pocz¹tku	7070	1030
